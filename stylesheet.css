@@ -1088,7 +1088,7 @@ audio {
 .balloons h2 {
 	text-transform: uppercase;
 	font-family: 'Signika', sans-serif;
-	font-size: auto;
+	font-size: 4vw;
 	color: #BF4136;
 	text-shadow: 5px 5px 5px #FFF;
 	display: none;
@@ -1100,7 +1100,7 @@ audio {
 	background-image: url('b2.png');
 }
 #b3,#b33 {
-	background-image: url('b3.png');
+	background-image: url('b7.png');
 }
 #b4,#b44{
 	background-image: url('b4.png');
